@@ -9,6 +9,7 @@
 | Empresa                 | Site                                    | Modalidade            | 
 | -------                 | ---                                     | ---                   |
 | A3Data                  | https://a3data.com.br/                  | Home-office           |
+| Accenture Brasil        | https://www.accenture.com/              | Home-office e Híbrido |
 | Afya Educacional        | https://afya.com.br/                    | Home-office e Híbrido |
 | Americanas              | https://www.americanas.com.br/          | Home-office e Híbrido |
 | B3                      | https://www.b3.com.br/                  | Híbrido               |
