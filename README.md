@@ -14,6 +14,7 @@
 | Americanas              | https://www.americanas.com.br/          | Home-office e Híbrido |
 | B3                      | https://www.b3.com.br/                  | Híbrido               |
 | Banco PAN               | https://www.bancopan.com.br/            | Home-office e Híbrido |
+| BlueShift Brasil        | https://blueshift.com.br                | Home-office           |
 | BRQ                     | https://www.brq.com/                    | Home-office           |
 | Capgemini               | https://www.capgemini.com/br-pt/        | Home-office e Híbrido |
 | Cast Group              | https://www.castgroup.com.br/           | Home-office           |
@@ -52,4 +53,8 @@
 
 ## Contribuição
 
-Caso queira contribuir, por gentileza, abra um Issues com a(s) empresa(s) desejada(s).
+Caso queira contribuir, por gentileza, abra um Issues com a(s) empresa(s) desejada(s) no seguinte modelo:
+
+Empresa: Nome da empresa
+Site: Site da empresa
+Modalidade: Home-office | Híbrido | Home-office e Híbrido
