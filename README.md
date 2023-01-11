@@ -22,4 +22,4 @@
 
 ## Contribuição
 
-Caso queira contribuir, por gentileza, abra um Issues ou um Pull Request (com as edições em ordem alfabética) com a(s) empresa(s) desejada(s).
+Caso queira contribuir, por gentileza, abra um Issues com a(s) empresa(s) desejada(s).
