@@ -48,7 +48,7 @@
 | Sinqia                  | https://sinqia.com.br/                  | Home-office e Híbrido |
 | Stefanini Brasil        | https://stefanini.com/pt-br             | Home-office e Híbrido |
 | Vetta                   | https://vetta.gupy.io/                  | Home-office           |
-
+| Madeira Madeira         | https://www.madeiramadeira.com.br/      | Home-office           |
 
 
 ## Contribuição
