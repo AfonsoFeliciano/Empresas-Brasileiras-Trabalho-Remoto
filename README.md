@@ -13,6 +13,7 @@
 | Afya Educacional        | https://afya.com.br/                    | Home-office e Híbrido |
 | Americanas              | https://www.americanas.com.br/          | Home-office e Híbrido |
 | B3                      | https://www.b3.com.br/                  | Híbrido               |
+| Banco PAN               | https://www.bancopan.com.br/            | Home-office e Híbrido |
 | BRQ                     | https://www.brq.com/                    | Home-office           |
 | Capgemini               | https://www.capgemini.com/br-pt/        | Home-office e Híbrido |
 | Cast Group              | https://www.castgroup.com.br/           | Home-office           |
@@ -37,7 +38,10 @@
 | Power of Data           | https://www.powerofdata.com.br/         | Home-office           |
 | PowerTuning             | https://powertuning.com.br/             | Home-office           |
 | Radix                   | https://www.radixeng.com.br/            | Home-office e Híbrido |
+| RD                      | https://rd.com.br/                      | Home-office e Híbrido |
+| Rede Globo              | https://redeglobo.globo.com/            | Home-office e Híbrido |
 | Sinqia                  | https://sinqia.com.br/                  | Home-office e Híbrido |
+| Stefanini Brasil        | https://stefanini.com/pt-br             | Home-office e Híbrido |
 | Vetta                   | https://vetta.gupy.io/                  | Home-office           |
 
 
