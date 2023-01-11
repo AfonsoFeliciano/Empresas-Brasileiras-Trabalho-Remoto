@@ -25,9 +25,12 @@
 | Grupo Boticário         | https://www.boticario.com.br/           | Home-office e Híbrido |
 | Grupo Fleury            | https://www.fleury.com.br/              | Home-office e Híbrido |
 | Gympass                 | https://gympass.com/pt-br               | Home-office           |
+| Itaú Unibanco           | https://www.itau.com.br/                | Híbrido               |
+| Ília Digital            | https://ilia.digital/                   | Home-office           |
 | Keyrus                  | https://keyrus.com/br/pt/home           | Home-office           |
 | Kumulus                 | https://www.kumulus.com/                | Home-office e Híbrido |
 | Leega                   | https://leega.com.br/                   | Home-office e Híbrido |
+| Linx                    | https://www.linx.com.br/                | Híbrido               |
 | Localiza                | https://www.localiza.com/brasil/pt-br   | Home-office e Híbrido |
 | Luizalabs               | https://medium.com/luizalabs            | Home-office e Híbrido | 
 | MATH Group              | https://math.group/                     | Home-office           |
