@@ -11,6 +11,7 @@
 | Kumulus         | https://www.kumulus.com/        | Home-office e Híbrido |
 | Leega           | https://leega.com.br/           | Home-office e Híbrido |
 | Noorden Group   | https://www.noorden.com.br/     | Home-office           |
+| PowerTuning     | https://powertuning.com.br/     | Home-office           |
 | Power of Data   | https://www.powerofdata.com.br/ | Home-office           |
 | Radix           | https://www.radixeng.com.br/    | Home-office e Híbrido |
 | Sinqia          | https://sinqia.com.br/          | Home-office e Híbrido |
