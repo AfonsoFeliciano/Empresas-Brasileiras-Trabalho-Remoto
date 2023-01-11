@@ -1,2 +1,4 @@
-# Empresas-Brasileiras-Trabalho-Remoto
-Empresas Brasileiras que aderem o trabalho remoto
+# Empresas Brasileiras que permitem o trabalho remoto
+
+
+
