@@ -35,6 +35,7 @@
 | Linx                    | https://www.linx.com.br/                | Híbrido               |
 | Localiza                | https://www.localiza.com/brasil/pt-br   | Home-office e Híbrido |
 | Luizalabs               | https://medium.com/luizalabs            | Home-office e Híbrido | 
+| Madeira Madeira         | https://www.madeiramadeira.com.br/      | Home-office           |
 | MATH Group              | https://math.group/                     | Home-office           |
 | Neoway                  | https://www.neoway.com.br/              | Home-office           |
 | Noorden Group           | https://www.noorden.com.br/             | Home-office           |
@@ -48,7 +49,7 @@
 | Sinqia                  | https://sinqia.com.br/                  | Home-office e Híbrido |
 | Stefanini Brasil        | https://stefanini.com/pt-br             | Home-office e Híbrido |
 | Vetta                   | https://vetta.gupy.io/                  | Home-office           |
-| Madeira Madeira         | https://www.madeiramadeira.com.br/      | Home-office           |
+
 
 
 ## Contribuição
