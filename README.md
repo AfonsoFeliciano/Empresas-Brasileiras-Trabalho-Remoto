@@ -14,6 +14,7 @@
 | B3                      | https://www.b3.com.br/                  | Híbrido               |
 | BRQ                     | https://www.brq.com/                    | Home-office           |
 | Capgemini               | https://www.capgemini.com/br-pt/        | Home-office e Híbrido |
+| Cielo                   | https://www.cielo.com.br/               | Home-office e Híbrido |
 | Contabilizei            | https://www.contabilizei.com.br/        | Home-office           |
 | Dataside                | https://www.dataside.com.br/            | Home-office           |
 | Datum TI                | https://www.datum.inf.br/               | Home-office           |
@@ -35,6 +36,7 @@
 | PowerTuning             | https://powertuning.com.br/             | Home-office           |
 | Radix                   | https://www.radixeng.com.br/            | Home-office e Híbrido |
 | Sinqia                  | https://sinqia.com.br/                  | Home-office e Híbrido |
+| Vetta                   | https://vetta.gupy.io/                  | Home-office           |
 
 
 
