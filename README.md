@@ -55,6 +55,6 @@
 
 Caso queira contribuir, por gentileza, abra um Issues com a(s) empresa(s) desejada(s) no seguinte modelo:
 
-Empresa: Nome da empresa
-Site: Site da empresa
+Empresa: Nome da empresa <br>
+Site: Site da empresa <br>
 Modalidade: Home-office | Híbrido | Home-office e Híbrido
