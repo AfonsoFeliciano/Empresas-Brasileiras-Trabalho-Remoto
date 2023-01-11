@@ -5,6 +5,7 @@
 
 | Empresa         | Site                              | Modalidade            | 
 | -------         | ---                               | ---                   |
+| A3Data          | https://a3data.com.br/            | Home-office           |
 | Americanas      | https://www.americanas.com.br/    | Home-office e Híbrido |
 | Capgemini       | https://www.capgemini.com/br-pt/  | Home-office e Híbrido |
 | Dataside        | https://www.dataside.com.br/      | Home-office           |
@@ -14,6 +15,7 @@
 | Kumulus         | https://www.kumulus.com/          | Home-office e Híbrido |
 | Leega           | https://leega.com.br/             | Home-office e Híbrido |
 | Noorden Group   | https://www.noorden.com.br/       | Home-office           |
+| Porto           | https://www.portoseguro.com.br/   | Home-office e Híbrido |
 | Power of Data   | https://www.powerofdata.com.br/   | Home-office           |
 | PowerTuning     | https://powertuning.com.br/       | Home-office           |
 | Radix           | https://www.radixeng.com.br/      | Home-office e Híbrido |
