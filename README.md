@@ -22,6 +22,7 @@
 | Dataside                | https://www.dataside.com.br/            | Home-office           |
 | Datum TI                | https://www.datum.inf.br/               | Home-office           |
 | Dock                    | https://dock.tech/                      | Home-office           |
+| epharma                 | https://www.epharma.com.br/             | Home-office e Híbrido |
 | Grupo Boticário         | https://www.boticario.com.br/           | Home-office e Híbrido |
 | Grupo Fleury            | https://www.fleury.com.br/              | Home-office e Híbrido |
 | Gympass                 | https://gympass.com/pt-br               | Home-office           |
