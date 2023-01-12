@@ -41,6 +41,7 @@
 | Luizalabs               | https://medium.com/luizalabs            | Home-office e Híbrido | 
 | Madeira Madeira         | https://www.madeiramadeira.com.br/      | Home-office           |
 | Marketdata              | https://www.marketdata.com.br/          | Híbrido               |
+| MLF                     | https://mlf.mlfsites.com/               | Home-office           |
 | MATH Group              | https://math.group/                     | Home-office           |
 | Neoway                  | https://www.neoway.com.br/              | Home-office           |
 | Noorden Group           | https://www.noorden.com.br/             | Home-office           |
