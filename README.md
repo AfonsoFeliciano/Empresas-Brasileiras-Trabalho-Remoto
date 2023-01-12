@@ -30,6 +30,7 @@
 | Gympass                 | https://gympass.com/pt-br               | Home-office           |
 | Itaú Unibanco           | https://www.itau.com.br/                | Híbrido               |
 | Ília Digital            | https://ilia.digital/                   | Home-office           |
+| K2M                     | https://www.k2m.com.br/                 | Home office           |
 | Keyrus                  | https://keyrus.com/br/pt/home           | Home-office           |
 | Kumulus                 | https://www.kumulus.com/                | Home-office e Híbrido |
 | Leega                   | https://leega.com.br/                   | Home-office e Híbrido |
@@ -40,6 +41,7 @@
 | MATH Group              | https://math.group/                     | Home-office           |
 | Neoway                  | https://www.neoway.com.br/              | Home-office           |
 | Noorden Group           | https://www.noorden.com.br/             | Home-office           |
+| Grupo Oncoclínicas      | https://grupooncoclinicas.com/          | Home office           |
 | Picpay                  | https://picpay.com/                     | Home-office           |
 | Porto                   | https://www.portoseguro.com.br/         | Home-office e Híbrido |
 | Power of Data           | https://www.powerofdata.com.br/         | Home-office           |
@@ -47,7 +49,9 @@
 | Radix                   | https://www.radixeng.com.br/            | Home-office e Híbrido |
 | RD                      | https://rd.com.br/                      | Home-office e Híbrido |
 | Rede Globo              | https://redeglobo.globo.com/            | Home-office e Híbrido |
+| Serasa                  | https://www.serasaexperian.com.br/      | Híbrido               |
 | Sinqia                  | https://sinqia.com.br/                  | Home-office e Híbrido |
+| Solutis                 | https://solutis.com.br/                 | Híbrido               |
 | Stefanini Brasil        | https://stefanini.com/pt-br             | Home-office e Híbrido |
 | Vetta                   | https://vetta.gupy.io/                  | Home-office           |
 
