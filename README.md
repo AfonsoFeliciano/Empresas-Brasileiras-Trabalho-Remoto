@@ -20,10 +20,12 @@
 | Capgemini               | https://www.capgemini.com/br-pt/        | Home-office e Híbrido |
 | Cast Group              | https://www.castgroup.com.br/           | Home-office           |
 | Cielo                   | https://www.cielo.com.br/               | Home-office e Híbrido |
+| CI&T                    | https://ciandt.com/                     | Home-office e Híbrido |
 | Contabilizei            | https://www.contabilizei.com.br/        | Home-office           |
 | Dataside                | https://www.dataside.com.br/            | Home-office           |
 | Datum TI                | https://www.datum.inf.br/               | Home-office           |
 | Dock                    | https://dock.tech/                      | Home-office           |
+| Develcode               | https://www.develcode.com.br            | Home-office           |
 | epharma                 | https://www.epharma.com.br/             | Home-office e Híbrido |
 | Grupo Boticário         | https://www.boticario.com.br/           | Home-office e Híbrido |
 | Grupo Fleury            | https://www.fleury.com.br/              | Home-office e Híbrido |
@@ -38,6 +40,7 @@
 | Localiza                | https://www.localiza.com/brasil/pt-br   | Home-office e Híbrido |
 | Luizalabs               | https://medium.com/luizalabs            | Home-office e Híbrido | 
 | Madeira Madeira         | https://www.madeiramadeira.com.br/      | Home-office           |
+| Marketdata              | https://www.marketdata.com.br/          | Híbrido               |
 | MATH Group              | https://math.group/                     | Home-office           |
 | Neoway                  | https://www.neoway.com.br/              | Home-office           |
 | Noorden Group           | https://www.noorden.com.br/             | Home-office           |
