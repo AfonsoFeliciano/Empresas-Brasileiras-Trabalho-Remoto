@@ -54,6 +54,7 @@
 | Solutis                 | https://solutis.com.br/                 | Híbrido               |
 | Stefanini Brasil        | https://stefanini.com/pt-br             | Home-office e Híbrido |
 | Vetta                   | https://vetta.gupy.io/                  | Home-office           |
+| Zup Innovation          | https://www.zup.com.br/                 | Home-office           |
 
 
 
