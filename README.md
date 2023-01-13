@@ -26,6 +26,7 @@
 | Contabilizei            | https://www.contabilizei.com.br/        | Home-office           |
 | Dataside                | https://www.dataside.com.br/            | Home-office           |
 | Datum TI                | https://www.datum.inf.br/               | Home-office           |
+| Deloitte                | https://www2.deloitte.com/br/pt.html    | Home-office           |
 | Develcode               | https://www.develcode.com.br            | Home-office           |
 | DISYS Brasil            | https://www.disys.com/                  | Home-office           |
 | Dock                    | https://dock.tech/                      | Home-office           |
@@ -33,6 +34,7 @@
 | Grupo Boticário         | https://www.boticario.com.br/           | Home-office e Híbrido |
 | Grupo Fleury            | https://www.fleury.com.br/              | Home-office e Híbrido |
 | Grupo Oncoclínicas      | https://grupooncoclinicas.com/          | Home office           |
+| GVT                     | https://www.gvt.com.br/                 | Híbrido               |
 | Gympass                 | https://gympass.com/pt-br               | Home-office           |
 | Itaú Unibanco           | https://www.itau.com.br/                | Híbrido               |
 | Ília Digital            | https://ilia.digital/                   | Home-office           |
@@ -47,14 +49,19 @@
 | Marketdata              | https://www.marketdata.com.br/          | Híbrido               |
 | MLF                     | https://mlf.mlfsites.com/               | Home-office           |
 | MATH Group              | https://math.group/                     | Home-office           |
+| Natura                  | https://www.natura.com.br/              | Home-office e Híbrido |
 | Neoway                  | https://www.neoway.com.br/              | Home-office           |
 | Nomad                   | https://nomadglobal.com/                | Home-office           |
 | Noorden Group           | https://www.noorden.com.br/             | Home-office           |
+| Odontoprev              | https://www.odontoprev.com.br/          | Home-office e Híbrido |
 | Picpay                  | https://picpay.com/                     | Home-office           |
+| PagSeguro               | https://pagseguro.uol.com.br/           | Home-office           |
 | Porto                   | https://www.portoseguro.com.br/         | Home-office e Híbrido |
 | Power of Data           | https://www.powerofdata.com.br/         | Home-office           |
 | PowerTuning             | https://powertuning.com.br/             | Home-office           |
+| PwC                     | https://www.pwc.com.br/                 | Home-office e Híbrido |
 | Radix                   | https://www.radixeng.com.br/            | Home-office e Híbrido |
+| Raia Drogasil           | https://rd.com.br/                      | Home-office e Híbrido |
 | RD                      | https://rd.com.br/                      | Home-office e Híbrido |
 | Rede Globo              | https://redeglobo.globo.com/            | Home-office e Híbrido |
 | Semantix                | https://semantix.ai/                    | Home-office e Híbrido |
