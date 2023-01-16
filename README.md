@@ -21,6 +21,7 @@
 | BRQ                     | https://www.brq.com/                    | Home-office           |
 | Capgemini               | https://www.capgemini.com/br-pt/        | Home-office e Híbrido |
 | Cast Group              | https://www.castgroup.com.br/           | Home-office           |
+| Catho                   | https:/www.catho.com.br/                | Home-office           |
 | Cielo                   | https://www.cielo.com.br/               | Home-office e Híbrido |
 | CI&T                    | https://ciandt.com/                     | Home-office e Híbrido |
 | Contabilizei            | https://www.contabilizei.com.br/        | Home-office           |
