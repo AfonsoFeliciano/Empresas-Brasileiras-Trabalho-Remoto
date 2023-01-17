@@ -61,8 +61,8 @@
 | Nomad                   | https://nomadglobal.com/                | Home-office           |
 | Noorden Group           | https://www.noorden.com.br/             | Home-office           |
 | Odontoprev              | https://www.odontoprev.com.br/          | Home-office e Híbrido |
-| Picpay                  | https://picpay.com/                     | Home-office           |
 | PagSeguro               | https://pagseguro.uol.com.br/           | Home-office           |
+| Picpay                  | https://picpay.com/                     | Home-office           |
 | Porto                   | https://www.portoseguro.com.br/         | Home-office e Híbrido |
 | Power of Data           | https://www.powerofdata.com.br/         | Home-office           |
 | PowerTuning             | https://powertuning.com.br/             | Home-office           |
