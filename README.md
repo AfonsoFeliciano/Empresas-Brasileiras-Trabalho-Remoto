@@ -18,6 +18,7 @@
 | B3                      | https://www.b3.com.br/                  | Híbrido               |
 | Banco PAN               | https://www.bancopan.com.br/            | Home-office e Híbrido |
 | Bix Tecnologia          | https://bixtecnologia.com.br/           | Home-office           |
+| Blend IT                | https://www.blendit.com/                | Home-office           |
 | BlueShift Brasil        | https://blueshift.com.br                | Home-office           |
 | BRQ                     | https://www.brq.com/                    | Home-office           |
 | Capgemini               | https://www.capgemini.com/br-pt/        | Home-office e Híbrido |
@@ -29,6 +30,7 @@
 | Contabilizei            | https://www.contabilizei.com.br/        | Home-office           |
 | Dataside                | https://www.dataside.com.br/            | Home-office           |
 | Datum TI                | https://www.datum.inf.br/               | Home-office           |
+| DBC Company             | https://www.dbccompany.com.br/          | Home-office           |
 | Deloitte                | https://www2.deloitte.com/br/pt.html    | Home-office           |
 | Develcode               | https://www.develcode.com.br            | Home-office           |
 | DISYS Brasil            | https://www.disys.com/                  | Home-office           |
@@ -56,6 +58,7 @@
 | MATH Group              | https://math.group/                     | Home-office           |
 | Mouts TI                | https://mouts.info/                     | Híbrido               |
 | MLF                     | https://mlf.mlfsites.com/               | Home-office           |
+| Mttechne                | https://www.mttechne.com.br/            | Home-office           |
 | Natura                  | https://www.natura.com.br/              | Home-office e Híbrido |
 | Neoway                  | https://www.neoway.com.br/              | Home-office           |
 | Nomad                   | https://nomadglobal.com/                | Home-office           |
@@ -75,6 +78,7 @@
 | Serasa                  | https://www.serasaexperian.com.br/      | Híbrido               |
 | Sinqia                  | https://sinqia.com.br/                  | Home-office e Híbrido |
 | Solutis                 | https://solutis.com.br/                 | Híbrido               |
+| South System            | https://southsystem.com.br/             | Home-office           |
 | Stefanini Brasil        | https://stefanini.com/pt-br             | Home-office e Híbrido |
 | Sympla                  | https://www.sympla.com.br/              | Home-office e Híbrido |
 | Tata Consultancy        | https://www.tcs.com/                    | Home-office           |
