@@ -14,12 +14,14 @@
 | Afya Educacional        | https://afya.com.br/                    | Home-office e Híbrido |
 | Akad Seguros            | https://akadseguros.com.br/             | Home-office           |
 | Americanas              | https://www.americanas.com.br/          | Home-office e Híbrido |
+| Atos                    | https://atos.net/pt-br/brasil-atos      | Home-office           |
 | B3                      | https://www.b3.com.br/                  | Híbrido               |
 | Banco PAN               | https://www.bancopan.com.br/            | Home-office e Híbrido |
 | Bix Tecnologia          | https://bixtecnologia.com.br/           | Home-office           |
 | BlueShift Brasil        | https://blueshift.com.br                | Home-office           |
 | BRQ                     | https://www.brq.com/                    | Home-office           |
 | Capgemini               | https://www.capgemini.com/br-pt/        | Home-office e Híbrido |
+| Capitani Grou           | https://capitani.com.br/                | Home-office           |
 | Cast Group              | https://www.castgroup.com.br/           | Home-office           |
 | Catho                   | https:/www.catho.com.br/                | Home-office           |
 | Cielo                   | https://www.cielo.com.br/               | Home-office e Híbrido |
@@ -37,6 +39,8 @@
 | Grupo Oncoclínicas      | https://grupooncoclinicas.com/          | Home office           |
 | GVT                     | https://www.gvt.com.br/                 | Híbrido               |
 | Gympass                 | https://gympass.com/pt-br               | Home-office           |
+| iBlue Consulting        | https://www.iblueconsulting.com.br/     | Home-office           |
+| Incognia                | https://www.incognia.com/pt/            | Home-office           |
 | Itaú Unibanco           | https://www.itau.com.br/                | Híbrido               |
 | Ília Digital            | https://ilia.digital/                   | Home-office           |
 | K2M                     | https://www.k2m.com.br/                 | Home office           |
@@ -46,10 +50,12 @@
 | Linx                    | https://www.linx.com.br/                | Híbrido               |
 | Localiza                | https://www.localiza.com/brasil/pt-br   | Home-office e Híbrido |
 | Luizalabs               | https://medium.com/luizalabs            | Home-office e Híbrido | 
+| Luxoft                  | https://www.luxoft.com/                 | Home-office           |
 | Madeira Madeira         | https://www.madeiramadeira.com.br/      | Home-office           |
 | Marketdata              | https://www.marketdata.com.br/          | Híbrido               |
-| MLF                     | https://mlf.mlfsites.com/               | Home-office           |
 | MATH Group              | https://math.group/                     | Home-office           |
+| Mouts TI                | https://mouts.info/                     | Híbrido               |
+| MLF                     | https://mlf.mlfsites.com/               | Home-office           |
 | Natura                  | https://www.natura.com.br/              | Home-office e Híbrido |
 | Neoway                  | https://www.neoway.com.br/              | Home-office           |
 | Nomad                   | https://nomadglobal.com/                | Home-office           |
@@ -72,6 +78,7 @@
 | Stefanini Brasil        | https://stefanini.com/pt-br             | Home-office e Híbrido |
 | Sympla                  | https://www.sympla.com.br/              | Home-office e Híbrido |
 | Tata Consultancy        | https://www.tcs.com/                    | Home-office           |
+| TIVIT                   | https://tivit.com/                      | Home-office e Híbrido |
 | Vetta                   | https://vetta.gupy.io/                  | Home-office           |
 | Zup Innovation          | https://www.zup.com.br/                 | Home-office           |
 
