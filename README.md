@@ -31,6 +31,7 @@
 | Dataside                | https://www.dataside.com.br/            | Home-office           |
 | Datum TI                | https://www.datum.inf.br/               | Home-office           |
 | DBC Company             | https://www.dbccompany.com.br/          | Home-office           |
+| Deep ESG                | https://www.deepesg.com/                | Home-office           |
 | Deloitte                | https://www2.deloitte.com/br/pt.html    | Home-office           |
 | Develcode               | https://www.develcode.com.br            | Home-office           |
 | DISYS Brasil            | https://www.disys.com/                  | Home-office           |
