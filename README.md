@@ -15,6 +15,7 @@
 | Afya Educacional        | https://afya.com.br/                        | Home-office e Híbrido |
 | Akad Seguros            | https://akadseguros.com.br/                 | Home-office           |
 | Americanas              | https://www.americanas.com.br/              | Home-office e Híbrido |
+| AmbevTech               | https://www.ambevtech.com.br/               | Home-office e Híbrido |
 | Applaudo                | https://www.applaudostudios.com/            | Home-office           |
 | Armac                   | https://www.armac.com.br/                   | Home-office e Híbrido |
 | Atos                    | https://atos.net/pt-br/brasil-atos          | Home-office           |
@@ -85,6 +86,7 @@
 | Radix                   | https://www.radixeng.com.br/                | Home-office e Híbrido |
 | Raia Drogasil           | https://rd.com.br/                          | Home-office e Híbrido |
 | RD                      | https://rd.com.br/                          | Home-office e Híbrido |
+| Red Ventures Brasil     | https://redventures.com.br/                 | Home-office           |
 | Rede Globo              | https://redeglobo.globo.com/                | Home-office e Híbrido |
 | Reply                   | https://www.reply.com/en/                   | Home-office           |
 | Semantix                | https://semantix.ai/                        | Home-office e Híbrido |
