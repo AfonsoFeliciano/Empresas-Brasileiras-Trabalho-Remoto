@@ -35,6 +35,7 @@
 | Contabilizei            | https://www.contabilizei.com.br/            | Home-office           |
 | Corus Consulting        | https://www.corusconsulting.com/en/         | Home-office           |
 | Dataside                | https://www.dataside.com.br/                | Home-office           |
+| Datalakers              | https://www.imaps.com.br/datalakers         | Home-office e Híbrido |
 | Datum TI                | https://www.datum.inf.br/                   | Home-office           |
 | DBC Company             | https://www.dbccompany.com.br/              | Home-office           |
 | Deep ESG                | https://www.deepesg.com/                    | Home-office           |
