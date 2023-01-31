@@ -1,7 +1,7 @@
-# Empresas Brasileiras que permitem o trabalho remoto
+# Empresas que permitem o trabalho remoto
 
 
-## Empresas
+## Empresas Brasileiras
 
 
 
@@ -46,6 +46,7 @@
 | DOMVS IT                | https://domvsit.com.br/                     | Home-office e Híbrido |
 | epharma                 | https://www.epharma.com.br/                 | Home-office e Híbrido |
 | FullStack Labs          | https://www.fullstacklabs.co/               | Home-office           |
+| Funcional Health Tech   | https://funcionalhealthtech.com.br/         | Home-office           |
 | Grupo Boticário         | https://www.boticario.com.br/               | Home-office e Híbrido |
 | Grupo Fleury            | https://www.fleury.com.br/                  | Home-office e Híbrido |
 | Grupo Oncoclínicas      | https://grupooncoclinicas.com/              | Home office           |
@@ -79,6 +80,7 @@
 | Oowlish                 | https://www.oowlish.com/                    | Home-office           |
 | PagSeguro               | https://pagseguro.uol.com.br/               | Home-office           |
 | Peers                   | https://peers.com.br/                       | Home-office e híbrido |
+|Petlove&co               | https://www.petlove.com.br/                 | Home-office e híbrido |
 | Picpay                  | https://picpay.com/                         | Home-office           |
 | Porto                   | https://www.portoseguro.com.br/             | Home-office e Híbrido |
 | Power of Data           | https://www.powerofdata.com.br/             | Home-office           |
@@ -97,19 +99,31 @@
 | South System            | https://southsystem.com.br/                 | Home-office           |
 | Stefanini Brasil        | https://stefanini.com/pt-br                 | Home-office e Híbrido |
 | Sympla                  | https://www.sympla.com.br/                  | Home-office e Híbrido |
+| T10                     | https://www.t10.digital/                    | Home-office           |
 | Tata Consultancy        | https://www.tcs.com/                        | Home-office           |
 | TIVIT                   | https://tivit.com/                          | Home-office e Híbrido |
 | Vetta                   | https://vetta.gupy.io/                      | Home-office           |
 | Virtual Mind            | https://www.virtualmind.com/                | Home-office           |
+| Vybrant                 | https://vybrantech.com/                     | Home-office           |
 | Wipro                   | https://www.wipro.com/                      | Home-office e Híbrido |
 | Zup Innovation          | https://www.zup.com.br/                     | Home-office           |
     
+
+## Empresas Estrangeiras
+
+| Empresa                 | Site                                        | Modalidade            | 
+| -------                 | ---                                         | ---                   |
+| MetaIT                  | https://www.metait.ca/                      | Home-office           |
+| OneContact              | http://www.onecontact.com.mk/               | Home-office           |
+| ValueLabs               | https://www.valuelabs.com/                  | Home-office           |
+
 
 
 ## Contribuição
 
 Caso queira contribuir, por gentileza, abra um Issues com a(s) empresa(s) desejada(s) no seguinte modelo:
 
+**Categoria:** Nacional | Internacional <br>
 **Empresa:** Nome da empresa <br>
 **Site:** Site da empresa <br>
 **Modalidade:** Home-office | Híbrido | Home-office e Híbrido
