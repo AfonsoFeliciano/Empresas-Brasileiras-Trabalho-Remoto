@@ -45,6 +45,7 @@
 | Dock                    | https://dock.tech/                          | Home-office           |
 | DOMVS IT                | https://domvsit.com.br/                     | Home-office e Híbrido |
 | epharma                 | https://www.epharma.com.br/                 | Home-office e Híbrido |
+| Forma Turismo           | https://www.formaturismo.com.br/            | Home-office           |
 | FullStack Labs          | https://www.fullstacklabs.co/               | Home-office           |
 | Funcional Health Tech   | https://funcionalhealthtech.com.br/         | Home-office           |
 | Grupo Boticário         | https://www.boticario.com.br/               | Home-office e Híbrido |
@@ -116,6 +117,7 @@
 | MetaIT                  | https://www.metait.ca/                      | Home-office           |
 | OneContact              | http://www.onecontact.com.mk/               | Home-office           |
 | ValueLabs               | https://www.valuelabs.com/                  | Home-office           |
+| Encora                  | https://www.encora.com/                     | Home-office           |
 
 
 
